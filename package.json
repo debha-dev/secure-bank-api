@@ -1,0 +1,23 @@
+{
+  "name": "secure-bank-api",
+  "version": "1.0.0",
+  "description": "Bank API with delayed transaction authorization and fraud risk scoring — built with Node.js, Express, PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debha-dev/secure-bank-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debha-dev/secure-bank-api/issues"
+  },
+  "homepage": "https://github.com/debha-dev/secure-bank-api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
